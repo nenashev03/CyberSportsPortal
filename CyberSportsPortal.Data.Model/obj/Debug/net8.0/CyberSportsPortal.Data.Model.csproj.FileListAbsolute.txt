@@ -1,0 +1,11 @@
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Data.Model\bin\Debug\net8.0\CyberSportsPortal.Data.Model.deps.json
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Data.Model\bin\Debug\net8.0\CyberSportsPortal.Data.Model.dll
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Data.Model\bin\Debug\net8.0\CyberSportsPortal.Data.Model.pdb
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Debug\net8.0\CyberSportsPortal.Data.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Debug\net8.0\CyberSportsPortal.Data.Model.AssemblyInfoInputs.cache
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Debug\net8.0\CyberSportsPortal.Data.Model.AssemblyInfo.cs
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Debug\net8.0\CyberSportsPortal.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Debug\net8.0\CyberSportsPortal.Data.Model.dll
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Debug\net8.0\refint\CyberSportsPortal.Data.Model.dll
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Debug\net8.0\CyberSportsPortal.Data.Model.pdb
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Debug\net8.0\ref\CyberSportsPortal.Data.Model.dll

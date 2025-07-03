@@ -1,0 +1,17 @@
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\bin\Debug\net8.0\CyberSportsPortal.Core.deps.json
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\bin\Debug\net8.0\CyberSportsPortal.Core.dll
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\bin\Debug\net8.0\CyberSportsPortal.Core.pdb
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\bin\Debug\net8.0\CyberSportsPortal.Data.dll
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\bin\Debug\net8.0\CyberSportsPortal.Data.Model.dll
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\bin\Debug\net8.0\CyberSportsPortal.Data.pdb
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\bin\Debug\net8.0\CyberSportsPortal.Data.Model.pdb
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\obj\Debug\net8.0\CyberSportsPortal.Core.csproj.AssemblyReference.cache
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\obj\Debug\net8.0\CyberSportsPortal.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\obj\Debug\net8.0\CyberSportsPortal.Core.AssemblyInfoInputs.cache
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\obj\Debug\net8.0\CyberSportsPortal.Core.AssemblyInfo.cs
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\obj\Debug\net8.0\CyberSportsPortal.Core.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\obj\Debug\net8.0\CyberSpo.BB111D5B.Up2Date
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\obj\Debug\net8.0\CyberSportsPortal.Core.dll
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\obj\Debug\net8.0\refint\CyberSportsPortal.Core.dll
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\obj\Debug\net8.0\CyberSportsPortal.Core.pdb
+C:\Users\grish\source\CyberSportsPortal\CyberSportsPortal.Core\obj\Debug\net8.0\ref\CyberSportsPortal.Core.dll

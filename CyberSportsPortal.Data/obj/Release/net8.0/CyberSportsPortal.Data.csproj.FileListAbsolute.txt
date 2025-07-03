@@ -1,0 +1,17 @@
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\bin\Release\net8.0\CyberSportsPortal.Data.deps.json
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\bin\Release\net8.0\CyberSportsPortal.Data.runtimeconfig.json
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\bin\Release\net8.0\CyberSportsPortal.Data.dll
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\bin\Release\net8.0\CyberSportsPortal.Data.pdb
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\bin\Release\net8.0\CyberSportsPortal.Data.Model.dll
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\bin\Release\net8.0\CyberSportsPortal.Data.Model.pdb
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\obj\Release\net8.0\CyberSportsPortal.Data.csproj.AssemblyReference.cache
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\obj\Release\net8.0\CyberSportsPortal.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\obj\Release\net8.0\CyberSportsPortal.Data.AssemblyInfoInputs.cache
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\obj\Release\net8.0\CyberSportsPortal.Data.AssemblyInfo.cs
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\obj\Release\net8.0\CyberSportsPortal.Data.csproj.CoreCompileInputs.cache
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\obj\Release\net8.0\CyberSpo.9B53FA44.Up2Date
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\obj\Release\net8.0\CyberSportsPortal.Data.dll
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\obj\Release\net8.0\refint\CyberSportsPortal.Data.dll
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\obj\Release\net8.0\CyberSportsPortal.Data.pdb
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\obj\Release\net8.0\CyberSportsPortal.Data.genruntimeconfig.cache
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data\obj\Release\net8.0\ref\CyberSportsPortal.Data.dll

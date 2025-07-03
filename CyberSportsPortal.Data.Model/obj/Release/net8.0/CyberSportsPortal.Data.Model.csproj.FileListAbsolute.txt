@@ -1,0 +1,11 @@
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data.Model\bin\Release\net8.0\CyberSportsPortal.Data.Model.deps.json
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data.Model\bin\Release\net8.0\CyberSportsPortal.Data.Model.dll
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data.Model\bin\Release\net8.0\CyberSportsPortal.Data.Model.pdb
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Release\net8.0\CyberSportsPortal.Data.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Release\net8.0\CyberSportsPortal.Data.Model.AssemblyInfoInputs.cache
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Release\net8.0\CyberSportsPortal.Data.Model.AssemblyInfo.cs
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Release\net8.0\CyberSportsPortal.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Release\net8.0\CyberSportsPortal.Data.Model.dll
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Release\net8.0\refint\CyberSportsPortal.Data.Model.dll
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Release\net8.0\CyberSportsPortal.Data.Model.pdb
+C:\Users\Roman_Kitar\Desktop\Students\SummerPractice\practice\CyberSportsPortal\CyberSportsPortal.Data.Model\obj\Release\net8.0\ref\CyberSportsPortal.Data.Model.dll
