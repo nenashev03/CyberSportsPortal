@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HJDxwVruHas=",
+  "dgSpecHash": "nkxl/LQZFU4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Core\\CyberSportsPortal.Core.csproj",
+  "projectFilePath": "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Core\\CyberSportsPortal.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\grish\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\grish\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.14\\microsoft.entityframeworkcore.8.0.14.nupkg.sha512",

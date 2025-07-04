@@ -40,35 +40,35 @@ public class TeamTasksService
     // 7 задание, логику прописал, по идее должно работать, но на деле неа)))
     public List<Rating> GetNewRatings(List<MatchHistory> matches, List<Rating> oldRatings)
     {
-        var NewRating = oldRatings.Select(r => new Rating
+        List<Rating> NewRating = new List<Rating>();
+        foreach (var r in oldRatings)
         {
-            Id = r.Id,
-            Score = r.Score,
-            AtMoment = r.AtMoment,
-            TeamId = r.TeamId,
-            Team = r.Team
-        }).ToList();
+            NewRating.Add(new Rating()
+            {
+                Id = r.Id,
+                Score = r.Score,
+                AtMoment = r.AtMoment,
+                TeamId = r.TeamId,
+                Team = r.Team
+            });
+        }
         var sortingmatches = matches.OrderBy(d => d.Date);
         foreach (var match in sortingmatches)
         {
             var wR = NewRating.Find(r => r.TeamId == match.WinnerId);
             var lR = NewRating.Find(r => r.TeamId == match.LoserId);
             int points;
-            if (wR.Score > lR.Score)
+            if (wR.Score < lR.Score)
+            {
+                points = (int)Math.Round(lR.Score * 0.1);
+            }
+            else 
             {
                 points = (int)Math.Round(lR.Score * 0.01);
             }
-            else if (wR.Score < lR.Score)
-            {
-                points = (int)Math.Round(lR.Score * 0.1);
-            }
-            else
-            {
-                points = (int)Math.Round(lR.Score * 0.1);
-            }
-
-            wR.Score += points;
-            lR.Score -= points;
+            int finalpoints = Math.Max(points, 1);
+            wR.Score += finalpoints;
+            lR.Score -= finalpoints;
         }
 
         return NewRating;

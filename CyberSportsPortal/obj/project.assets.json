@@ -7529,11 +7529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal\\CyberSportsPortal.csproj",
+      "projectUniqueName": "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal\\CyberSportsPortal.csproj",
       "projectName": "CyberSportsPortal",
-      "projectPath": "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal\\CyberSportsPortal.csproj",
+      "projectPath": "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal\\CyberSportsPortal.csproj",
       "packagesPath": "C:\\Users\\grish\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal\\obj\\",
+      "outputPath": "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7554,11 +7554,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Core\\CyberSportsPortal.Core.csproj": {
-              "projectPath": "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Core\\CyberSportsPortal.Core.csproj"
+            "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Core\\CyberSportsPortal.Core.csproj": {
+              "projectPath": "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Core\\CyberSportsPortal.Core.csproj"
             },
-            "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Data\\CyberSportsPortal.Data.csproj": {
-              "projectPath": "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Data\\CyberSportsPortal.Data.csproj"
+            "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Data\\CyberSportsPortal.Data.csproj": {
+              "projectPath": "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Data\\CyberSportsPortal.Data.csproj"
             }
           }
         }

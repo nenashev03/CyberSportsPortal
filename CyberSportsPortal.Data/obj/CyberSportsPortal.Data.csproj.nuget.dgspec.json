@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Data\\CyberSportsPortal.Data.csproj": {}
+    "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Data\\CyberSportsPortal.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Data.Model\\CyberSportsPortal.Data.Model.csproj": {
+    "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Data.Model\\CyberSportsPortal.Data.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Data.Model\\CyberSportsPortal.Data.Model.csproj",
+        "projectUniqueName": "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Data.Model\\CyberSportsPortal.Data.Model.csproj",
         "projectName": "CyberSportsPortal.Data.Model",
-        "projectPath": "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Data.Model\\CyberSportsPortal.Data.Model.csproj",
+        "projectPath": "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Data.Model\\CyberSportsPortal.Data.Model.csproj",
         "packagesPath": "C:\\Users\\grish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Data.Model\\obj\\",
+        "outputPath": "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Data.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Data\\CyberSportsPortal.Data.csproj": {
+    "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Data\\CyberSportsPortal.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Data\\CyberSportsPortal.Data.csproj",
+        "projectUniqueName": "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Data\\CyberSportsPortal.Data.csproj",
         "projectName": "CyberSportsPortal.Data",
-        "projectPath": "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Data\\CyberSportsPortal.Data.csproj",
+        "projectPath": "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Data\\CyberSportsPortal.Data.csproj",
         "packagesPath": "C:\\Users\\grish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Data\\obj\\",
+        "outputPath": "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Data.Model\\CyberSportsPortal.Data.Model.csproj": {
-                "projectPath": "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal.Data.Model\\CyberSportsPortal.Data.Model.csproj"
+              "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Data.Model\\CyberSportsPortal.Data.Model.csproj": {
+                "projectPath": "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal.Data.Model\\CyberSportsPortal.Data.Model.csproj"
               }
             }
           }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CyberSportsPortal.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edafc66f20ba816416ad101367d319ceb5521693")]
 [assembly: System.Reflection.AssemblyProductAttribute("CyberSportsPortal.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CyberSportsPortal.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

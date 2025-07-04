@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HOW56qotUnY=",
+  "dgSpecHash": "Rr2Q8784bKY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\grish\\source\\CyberSportsPortal\\CyberSportsPortal\\CyberSportsPortal.csproj",
+  "projectFilePath": "C:\\Users\\grish\\source\\portalmy\\CyberSportsPortal\\CyberSportsPortal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\grish\\.nuget\\packages\\antdesign\\0.10.7\\antdesign.0.10.7.nupkg.sha512",
     "C:\\Users\\grish\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
